@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to SARA Pages
 
 You can use the [editor on GitHub](https://github.com/sserse1/prva/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,11 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown supr kul scena!! 
+Sara je ful navdušena..no ja..
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Naslov 1
 ## Header 2
 ### Header 3
 
